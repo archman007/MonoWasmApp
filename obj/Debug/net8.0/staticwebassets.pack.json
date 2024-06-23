@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/home/archman/workspace/mono/MonoWasmApp/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/archman/workspace/mono/MonoWasmApp/obj/Debug/net8.0/compressed/cpm9jt2h2q.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/archman/workspace/mono/MonoWasmApp/obj/Debug/net8.0/scopedcss/bundle/MonoWasmApp.styles.css",
+      "PackagePath": "staticwebassets/MonoWasmApp.styles.css"
+    },
+    {
+      "Id": "/home/archman/workspace/mono/MonoWasmApp/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/archman/workspace/mono/MonoWasmApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/archman/workspace/mono/MonoWasmApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/archman/workspace/mono/MonoWasmApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/archman/workspace/mono/MonoWasmApp/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/archman/workspace/mono/MonoWasmApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/archman/workspace/mono/MonoWasmApp/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MonoWasmApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MonoWasmApp.props",
+      "PackagePath": "build\\MonoWasmApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MonoWasmApp.props",
+      "PackagePath": "buildMultiTargeting\\MonoWasmApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MonoWasmApp.props",
+      "PackagePath": "buildTransitive\\MonoWasmApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
