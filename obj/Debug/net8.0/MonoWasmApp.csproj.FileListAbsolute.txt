@@ -1029,3 +1029,4 @@
 /home/archman/workspace/mono/MonoWasmApp/obj/Debug/net8.0/refint/MonoWasmApp.dll
 /home/archman/workspace/mono/MonoWasmApp/obj/Debug/net8.0/MonoWasmApp.pdb
 /home/archman/workspace/mono/MonoWasmApp/obj/Debug/net8.0/ref/MonoWasmApp.dll
+/home/archman/workspace/mono/MonoWasmApp/obj/Debug/net8.0/MonoWasmApp.sourcelink.json

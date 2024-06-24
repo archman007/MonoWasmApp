@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MonoWasmApp",
   "resources": {
-    "hash": "sha256-P3OUnowXfUEbhUa5tU6vBmd39i+VEb3gE4ZYgOtnxMM=",
+    "hash": "sha256-P9CKRoEQxhjkziJ59wj9p8ThZhP7Q7XVi6CqMg+qcg8=",
     "jsModuleNative": {
       "dotnet.native.8.0.6.zhng220ffc.js": "sha256-YU6M9+jtDVnB8/wtrgIndOstzNh778Ls8g9XnbjorSk="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-masKveCdoRSahF99doEQk7H3YN2wHLVIE4M/Zu8OoD8=",
       "netstandard.wasm": "sha256-z1EJOmgVhSpTopn7Tek/0P//MKGF1I3NUD/sh4oLnwY=",
       "System.Private.CoreLib.wasm": "sha256-tuIWpR30u0OoEVtv4pXZ47mEpI2AmFBIyYFPnqDZZfw=",
-      "MonoWasmApp.wasm": "sha256-6Won5zhChiUETeq2K+XW76z1SMOfQw35QZkn3pj7gqw="
+      "MonoWasmApp.wasm": "sha256-tWKygMl1z123eXLWIfXrbmm+xYqWZ62ScNQ0huXd8l8="
     },
     "pdb": {
-      "MonoWasmApp.pdb": "sha256-QBGnjLRJhLedoUjW4GnNJQTaNn7OuCrX63iCysuCdbo="
+      "MonoWasmApp.pdb": "sha256-TnmCXfdT764GALrNWdlX54eeTW6UFT6m5ZpPNxyqphY="
     }
   },
   "cacheBootResources": true,
