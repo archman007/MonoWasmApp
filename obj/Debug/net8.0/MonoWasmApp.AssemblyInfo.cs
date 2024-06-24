@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonoWasmApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0695fb91a79a10a19b644644c4958e7dae65aeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+464635da379ca63ca40685b3412da06c0450f3c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonoWasmApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonoWasmApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
